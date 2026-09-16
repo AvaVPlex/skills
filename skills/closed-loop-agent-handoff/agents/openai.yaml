@@ -1,0 +1,4 @@
+interface:
+  display_name: "Closed Loop Agent Handoff"
+  short_description: "Dispatch and verify work across AI agents"
+  default_prompt: "Use $closed-loop-agent-handoff to assign this work to the appropriate agent and close the loop without requiring me to relay messages."
